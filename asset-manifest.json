@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/catalogo/static/css/main.710aa887.css",
+    "main.js": "/catalogo/static/js/main.3fb59662.js",
+    "static/js/787.884e199e.chunk.js": "/catalogo/static/js/787.884e199e.chunk.js",
+    "static/media/flamengo.png": "/catalogo/static/media/flamengo.a26e4b6fef4216eba739.png",
+    "static/media/produto.png": "/catalogo/static/media/produto.3a7f6bf3c1f7b0964b4b.png",
+    "static/media/puma.png": "/catalogo/static/media/puma.3270b25830e16e9662b4.png",
+    "static/media/militar.jpeg": "/catalogo/static/media/militar.b80b1b4bbb82343d12b8.jpeg",
+    "index.html": "/catalogo/index.html",
+    "main.710aa887.css.map": "/catalogo/static/css/main.710aa887.css.map",
+    "main.3fb59662.js.map": "/catalogo/static/js/main.3fb59662.js.map",
+    "787.884e199e.chunk.js.map": "/catalogo/static/js/787.884e199e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.710aa887.css",
+    "static/js/main.3fb59662.js"
+  ]
+}
